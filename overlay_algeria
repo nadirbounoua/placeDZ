@@ -1,0 +1,17 @@
+{
+    "faction": "/r/algeria",
+    "contact": "https://discord.gg/kpWuBa3cPF",
+    "templates": [
+        {
+            "name": "Algerian flag new location",
+            "sources": [
+                "https://raw.githubusercontent.com/nadirbounoua/placeDZ/main/alg14.png"
+            ],
+            "x": 231,
+            "y": 1329
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": []
+}
